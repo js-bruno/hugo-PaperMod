@@ -3,6 +3,22 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+.article-background {
+    background: var(--entry);
+    padding: 0% 1.2% 2% 1.2%;
+    border:1px solid var(--border);
+    border-radius: var(--radius);
+
+
+    /* position: relative; */
+    /* margin-bottom: var(--gap); */
+    /* padding: var(--gap); */
+    /* background: var(--entry); */
+    /* border-radius: var(--radius); */
+    /* transition: transform .1s; */
+    /* border: 1px solid var(--border); */
+
+}
 .rainbow {
     text-align: center;
     text-decoration: underline;
