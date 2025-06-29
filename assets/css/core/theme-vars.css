@@ -20,7 +20,7 @@
 
 .dark {
     --theme: rgb(29, 30, 32);
-    --entry: rgb(24, 24, 37);
+    --entry: rgb(12,14,15);  /*Background color for cards */
     --primary: rgb(239, 241, 245);
     --secondary: rgb(220, 224, 232);
     --tertiary: rgb(76, 79, 105);
